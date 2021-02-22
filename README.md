@@ -7,6 +7,7 @@ Pokud Ti stránka ušetří trochu sepisování a vysvětlování, nebo Tě sem 
 ## Péče o Li-Pol baterie
 
 TL;DR:
+* Cílem je držet beterku co nejdéle co nejblíže k 3,8V na článek. Před letem/jízdou nabít na 4,2V na článek. Pak zpět na 3,8V.
 * označení zapojení: `4S2P`
   * počet článků sériově udáván jako "S" (více článků = větší celkové napětí)
   * počet článků paralelně udáván jako "P" (více článků = vštsí kapacita a max proud)
